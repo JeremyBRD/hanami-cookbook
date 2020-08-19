@@ -1,0 +1,3 @@
+project=cookbook
+test=rspec
+template=erb
